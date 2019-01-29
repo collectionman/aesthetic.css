@@ -7,7 +7,10 @@
     "example": "examples"
   },
   "scripts": {
-    "sass-watch" : "sass ./scss/**/*.scss build/css/"
+    "sass-btn" : "sass --watch ./scss/btn-family/buttons.scss ./build/css/btn-family/buttons.css",
+    "sass-text" : "sass --watch ./scss/txt-family/texts.scss ./build/css/txt-family/texts.css",
+    "git-add-all" : "git add *",
+    "git-push" : "git push -u origin master"
   },
   "keywords": [],
   "author": "",

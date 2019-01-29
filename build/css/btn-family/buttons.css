@@ -1,0 +1,87 @@
+.button {
+  color: white;
+  padding: 10px 15px;
+  box-shadow: 0px 2px 5px #828282;
+  box-sizing: border-box;
+}
+.button:hover {
+  opacity: 0.8;
+}
+
+.button-block {
+  display: block;
+}
+
+.button-brd {
+  border-radius: 5px;
+}
+
+.button-pill {
+  border-radius: 20px;
+}
+
+.button-xlg {
+  padding: 20px 30px;
+}
+
+.button-lg {
+  padding: 15px 20px;
+}
+
+.button-sm {
+  padding: 5px 10px;
+}
+
+.button-xs {
+  padding: 2.5px 5px;
+}
+
+.button-standard {
+  background: #828282;
+}
+
+.button-tree {
+  background: #15503c;
+}
+
+.button-tomato {
+  background: #dc3c28;
+}
+
+.button-natural {
+  background: #3c8250;
+}
+
+.button-sky {
+  background: #1e8cb4;
+}
+
+.button-water {
+  background: #78aafa;
+}
+
+.button-ocean {
+  background: #280adc;
+}
+
+.button-lemon {
+  background: #cdcd14;
+}
+
+.button-orange {
+  background: #dc7800;
+}
+
+.button-dark {
+  background: #1e1e1e;
+}
+
+.button-forest {
+  background: #965014;
+}
+
+.button-pinky {
+  background: #faaabe;
+}
+
+/*# sourceMappingURL=buttons.css.map */

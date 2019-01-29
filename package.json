@@ -1,0 +1,15 @@
+{
+  "name": "aesthetic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "sass-watch" : "sass ./scss/**/*.scss build/css/"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

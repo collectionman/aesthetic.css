@@ -1,0 +1,87 @@
+.button {
+    color : rgb(255,255,255) ;
+    padding : 10px 15px ;
+    box-shadow: 0px 2px 5px rgb(130,130,130) ;
+    box-sizing: border-box ;  
+    &:hover {
+        opacity: 0.8 ;
+    }    
+}
+
+.button-block {
+    display: block ;
+}
+
+.button-brd {
+
+    border-radius: 5px ;
+ 
+}
+
+.button-pill {
+    border-radius: 20px ;   
+}
+
+.button-xlg {
+    padding: 20px 30px ;
+}
+
+.button-lg {
+    padding: 15px 20px;
+}
+
+.button-sm {
+    padding: 5px 10px ;
+}
+  
+.button-xs {
+    padding: 2.5px 5px ;
+}
+
+.button-standard {
+    background: rgb(130,130,130) ;
+}
+
+.button-tree {
+    background: rgb(21,80,60) ;
+}
+
+.button-tomato {
+    background: rgb(220,60,40) ;
+}
+
+.button-natural {
+    background: rgb(60,130,80) ;
+}
+
+.button-sky {
+    background: rgb(30,140,180) ;
+}
+
+.button-water {
+    background: rgb(120,170,250) ;
+}
+
+.button-ocean {
+    background: rgb(40,10,220) ;
+}
+
+.button-lemon {
+    background: rgb(205,205,20) ;
+}
+
+.button-orange {
+    background: rgb(220,120,0) ;
+}
+
+.button-dark {
+    background: rgb(30,30,30) ;
+}
+
+.button-forest {
+    background: rgb(150,80,20) ;
+}
+
+.button-pinky {
+    background: rgb(250,170,190) ;
+}

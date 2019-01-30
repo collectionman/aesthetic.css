@@ -1,0 +1,126 @@
+@import url("https://fonts.googleapis.com/css?family=Arvo|Old+Standard+TT|Playfair+Display+SC|Roboto+Slab|Rokkitt|Ultra");
+@import url("https://fonts.googleapis.com/css?family=Acme|Anton|Dosis|Kosugi+Maru|Montserrat|Ubuntu");
+@import url("https://fonts.googleapis.com/css?family=Baloo+Thambi|Bangers|Lobster|Luckiest+Guy|Ruslan+Display|Staatliches");
+@import url("https://fonts.googleapis.com/css?family=Crafty+Girls|Indie+Flower|Merienda+One|Permanent+Marker|Petit+Formal+Script|Rock+Salt");
+@import url("https://fonts.googleapis.com/css?family=Cousine|Cutive+Mono|Major+Mono+Display|Nova+Mono|Share+Tech+Mono|Ubuntu+Mono");
+.serif-1 {
+  font-family: "Roboto Slab", serif;
+}
+
+.serif-2 {
+  font-family: "Arvo", serif;
+}
+
+.serif-3 {
+  font-family: "Rokkitt", serif;
+}
+
+.serif-4 {
+  font-family: "Old Standard TT", serif;
+}
+
+.serif-5 {
+  font-family: "ZCOOL XiaoWei", serif;
+}
+
+.serif-6 {
+  font-family: "Ultra", serif;
+}
+
+.sans-serif-1 {
+  font-family: "Montserrat", sans-serif;
+}
+
+.sans-serif-2 {
+  font-family: "Ubuntu", sans-serif;
+}
+
+.sans-serif-3 {
+  font-family: "Dosis", sans-serif;
+}
+
+.sans-serif-4 {
+  font-family: "Anton", sans-serif;
+}
+
+.sans-serif-5 {
+  font-family: "Acme", sans-serif;
+}
+
+.sans-serif-6 {
+  font-family: "Kosugi Maru", sans-serif;
+}
+
+.cursive-1 {
+  font-family: "Lobster", cursive;
+}
+
+.cursive-2 {
+  font-family: "Baloo Thambi", cursive;
+}
+
+.cursive-3 {
+  font-family: "Staatliches", cursive;
+}
+
+.cursive-4 {
+  font-family: "Luckiest Guy", cursive;
+}
+
+.cursive-5 {
+  font-family: "Bangers", cursive;
+}
+
+.cursive-6 {
+  font-family: "Ruslan Display", cursive;
+}
+
+.handwriting-1 {
+  font-family: "Indie Flower", cursive;
+}
+
+.handwriting-2 {
+  font-family: "Permanent Marker", cursive;
+}
+
+.handwriting-3 {
+  font-family: "Rock Salt", cursive;
+}
+
+.handwriting-4 {
+  font-family: "Petit Formal Script", cursive;
+}
+
+.handwriting-5 {
+  font-family: "Merienda One", cursive;
+}
+
+.handwriting-6 {
+  font-family: "Crafty Girls", cursive;
+}
+
+.monospace-1 {
+  font-family: "Cousine", monospace;
+}
+
+.monospace-2 {
+  font-family: "Cutive Mono", monospace;
+}
+
+.monospace-3 {
+  font-family: "Share Tech Mono", monospace;
+}
+
+.monospace-4 {
+  font-family: "Nova Mono", monospace;
+}
+
+.monospace-5 {
+  font-family: "Ubuntu Mono", monospace;
+}
+
+.monospace-6 {
+  font-family: "Major Mono Display", monospace;
+}
+
+/*# sourceMappingURL=fonts.css.map */

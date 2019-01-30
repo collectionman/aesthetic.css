@@ -1,0 +1,24 @@
+.xy-center {
+    display: flex ; 
+    justify-content: center ; 
+    align-items: center ; 
+    text-align: center ;
+}
+
+.left {
+    justify-content: left ; 
+    align-items: left ; 
+    text-align: left ;        
+}
+
+.center {
+    justify-content: center ; 
+    align-items: center ; 
+    text-align: center ;    
+}
+
+.right {
+    justify-content: right ; 
+    align-items: right ; 
+    text-align: right ; 
+}

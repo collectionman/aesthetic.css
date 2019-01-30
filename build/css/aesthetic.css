@@ -26,6 +26,10 @@
   border-radius: 20px;
 }
 
+.button-circle {
+  border-radius: 50%;
+}
+
 .button-xlg {
   padding: 20px 30px;
 }
@@ -88,6 +92,10 @@
 
 .button-pinky {
   background: #faaabe;
+}
+
+.b-light {
+  background: white;
 }
 
 .b-standard {
@@ -222,6 +230,10 @@
 .container-pill-bottom {
   border-bottom-left-radius: 20px;
   border-bottom-right-radius: 20px;
+}
+
+.container-circle {
+  border-radius: 50%;
 }
 
 .h100vh {
@@ -427,6 +439,22 @@
 
 .monospace-6 {
   font-family: "Major Mono Display", monospace;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.lowercase {
+  text-transform: lowercase;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+.capitalize {
+  text-transform: capitalize;
 }
 
 .fs-2px {
